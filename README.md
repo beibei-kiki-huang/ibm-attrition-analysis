@@ -75,3 +75,27 @@ Scenario B captures maximum dollar savings.
 ---
 
 ## Project Structure
+
+| File | Description |
+|---|---|
+| `Logistic_Regression.ipynb` | Odds ratio analysis — key attrition drivers |
+| `Decision_Tree.ipynb` | Persona segmentation — 5 high-risk clusters |
+| `Regressions_Visuals.ipynb` | Supporting regression visualizations |
+| `Presentation_Slide.pdf` | Final business presentation |
+| `DSO550_Final_Project_Powerbi_File.pdf` | Power BI dashboard screenshots |
+
+
+---
+
+## Team
+
+People First Analytics — USC Marshall DSO 550 (Spring 2025)  
+Beibei (Kiki) Huang · Chenduojia (Claudia) Lyu · Kailin Xu · Andre Kato · 
+Simon (Xingyang) Chen
+
+---
+
+## Data Source
+
+IBM HR Analytics dataset (publicly available via Kaggle) — 1,470 employee records, 
+35 variables. No personally identifiable information included.
